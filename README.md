@@ -73,3 +73,7 @@ Folding study now ends with a roof placement stage after floor lowering and wall
 Opening story replaces Considered spaces / Everyday possibility. Headline adapted from supplied SEED Homes Pitch Deck.pdf and SEED_Final_Investor Deck.pdf mission language: the world changed; housing did not. Product narrative cross-checked against Homes by SEED 2026, steel frame system sheet, local SEED-DECK-8.6 quality page 15, and seed-homes.com story (research only, no visitor link). No Canadian origin or affiliate claims added. Older deck numeric fire/wind assertions were not carried into visitor copy because underlying assembly tests and site-specific engineering were not established. No investor financials published.
 
 Large heading spacing refined across Homes, Contractors, Why SEED, Info, Contact and folding study. Removed forced breaks where they wasted heading width, tightened section padding, and arranged Why SEED heading beside its short story on desktop.
+
+## Public preview
+Published to GitHub Pages at the user's request. This remains a design review; source document permissions are unchanged.
+
