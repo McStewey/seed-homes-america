@@ -77,3 +77,6 @@ Large heading spacing refined across Homes, Contractors, Why SEED, Info, Contact
 ## Public preview
 Published to GitHub Pages at the user's request. This remains a design review; source document permissions are unchanged.
 
+
+## Custom Homes
+Navigation distinguishes SEED Homes and Custom Homes. Custom Homes features three residential concept renderings from the user-supplied Forged Construction website, with direct links to its inspiration section and full site. Images optimized locally as WebP. No pricing, certified performance, delivery commitments or partnership claims added. Source: https://forged-construction.steve-morgan-7561.chatgpt.site/
