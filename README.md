@@ -83,3 +83,5 @@ Standalone Forged Steel Custom Homes section. All imagery is local; no outbound 
 
 ### Updated collection comparison
 Compared Forged Collection_8-13-26.pdf (23 pages) with the Industrial Collection draft and current site. Selected its clean original sunset ranch image for the feature, added Two Story Ranch and Bunkhouse concepts to extend the gallery to six, added its illustrative two-floor layout to the local viewer, and replaced the interior feature with a warmer lakeside living image. The origin story follows its tree-fort inspiration and barn utility themes. Images were extracted directly from embedded PDF assets without regenerated architecture. Three-bedroom and two-/three-bedroom descriptions are concept options from pages 9/10 and 13, not confirmed product specifications. Commercial material is outside this residential section. Marketing performance claims were not expanded into certified ratings or promises.
+
+Replaced the visually repetitive Ranch III gallery image with the stone-clad exterior concept from page 12 of the updated collection. Stone Homestead is a descriptive exterior-study label, not a new verified model name.
