@@ -87,3 +87,5 @@ Compared Forged Collection_8-13-26.pdf (23 pages) with the Industrial Collection
 Replaced the visually repetitive Ranch III gallery image with the stone-clad exterior concept from page 12 of the updated collection. Stone Homestead is a descriptive exterior-study label, not a new verified model name.
 
 Removed custom feature framing and tinted image bands. Gallery images share a 3:2 frame with balanced cropping; feature and interior retain natural proportions.
+
+Mixed-gallery revision: retained the opening ranch exteriors, inserted a three-view collage with original kitchen and lounge concepts plus the two-story exterior, and retained the distinct Mod Industrial, Bunkhouse and stone exterior studies. No Ranch III gallery image remains.
